@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>new/text document.txt</file>
+        <file>signup.png</file>
+    </qresource>
+</RCC>
